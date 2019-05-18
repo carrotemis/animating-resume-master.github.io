@@ -1,6 +1,5 @@
 let resume = `# 胡炳良
 15982262587 | 15982262587@163.com | 成都
-Profile: https://caijialinxx.github.io/resume/
 Github: https://github.com/carrotemis/
 19届毕业生 | 前端开发工程师
 
@@ -8,11 +7,11 @@ Github: https://github.com/carrotemis/
 - HTML5, CSS3 & JavaScript
     - 能够使用原生 JavaScript 独立制作精美网页
     - 掌握 HTML5 如 canvas 、 audio 等语义化标签及 WebStorage API 等
-    - 掌握 CSS3 动画、过渡、弹性盒子布局、媒体查询等响应式设计常用技术
+    - 掌握 CSS3 \`动画\`、\`过渡\`、\`弹性盒子布局\`、\`媒体查询\`等响应式设计常用技术
 - Vue 
-    - Vue 开发经验，8.熟练使用Vue, 熟悉Vue的常见功能及命令，如组件，Vue-Router，Vuex,生命周期，Axios请求，能够快速理解Vue官方文档, 对MVVM,MVC设计模式有深入了解，
+    - Vue 开发经验，熟练使用Vue, 熟悉Vue的常见功能及命令，如组件，Vue-Router，Vuex,生命周期，Axios请求，
+    能够快速理解Vue官方文档, 对MVVM,MVC设计模式有深入了解，
     了解Eliment-Ui组件库，Echart.js,Three.js。
-    掌握组件及组件间数据传递的使用、响应式原理、路由和 Vuex 的使用等
 - 移动端开发
   - 小程序开发经验，已发布上线。熟悉 WXML 模版/事件、 JS 逻辑交互及常用 API 、常用组件的使用等，掌握 JSON 配置。
   - 会使用 REM 、  媒体查询等技术制作适配手机设备的页面
@@ -36,52 +35,42 @@ Github: https://github.com/carrotemis/
 2018/10 - 2019/3
 - 职位：前端开发
 - 主要技术：\`Vue\`、\`Vue Router\`、\`Vuex\`
-- 工作内容：开发智能英语学习平台。老师端中负责 1.1 版本的所有更新和优化；学生端中负责休息浮窗组件、弹窗对话框组件及学生信息页等的开发。 UI 组件自造轮子或使用 Ant Design 。
+- 工作内容：开发智能英语学习平台。老师端中负责 1.1 版本的所有更新和优化；
+学生端中负责休息浮窗组件、弹窗对话框组件及学生信息页等的开发。 UI 组件自造轮子或使用 Ant Design 。
 
 
 ## 项目经验
 ### 简历生成器
-- 关键词：\`JavaScript\`、\`Promise\`、\`变速\`、\`过渡动画\`、\`盒阴影\`
+- 关键词：\`JavaScript\`、、\`变速\`、\`过渡动画\`、\`盒阴影\`
 - 描述：该项目实现了一个 Markdown 简历的制作过程，在原生 JS 中使用 Promise 处理异步操作，利用 CSS3 实现过渡、动画、阴影和弹性布局等。
 - [源码链接](https://github.com/Caijialinxx/animating-resume/blob/master/main.js) | [预览链接](https://caijialinxx.github.io/animating-resume/)
 
-### 勾勾TODO
-- 关键词：\`小程序\`、\`React\`、\`组件化思想\`、\`3D 转换\`、\`动画\`、\`渐变\`、\`内外阴影\`
-- 描述：该项目由个人独立开发，功能有用户登录/注册、待办的添加/删除/标记完成状态。其中小程序实现了用户信息更改、一键删除已完成/已过期等； PC 端（React）还实现了移动待办、更换背景的功能，更换背景的按钮使用 3D 转换、动画、渐变和盒阴影等。
-- React 版本：[源码链接](https://github.com/Caijialinxx/todo-react) | [预览链接](https://caijialinxx.github.io/todo-react/build/)
-- 小程序版本：[源码链接](https://github.com/Caijialinxx/GoGoTodo) | 小程序搜索“勾勾TODO” 或扫描[二维码](https://caijialinxx.github.io/animating-resume/images/qrcode.png)预览
 
-### 炫主页
-- 关键词：\`jQuery\`、\`CSS3 过渡动画\`、\`组件化思想\`、\`MVC 思想\`、\`媒体查询\`、\`Sticky\`
-- 描述：此项目是本人的一个信息介绍页，包含基础信息、技能、项目展示以及留言板功能。有大量精美的动画，例如滚动时的导航栏及模块的浮起、导航栏 hover 动画、响应式设计等。
-- [源码链接](https://github.com/Caijialinxx/resume) | [预览链接](https://caijialinxx.github.io/resume/)
-
-### 幻灯片放映室
-- 关键词：\`jQuery\`、\`Loop模式\`、\`缩略图模式\`、\`Rem\`、\`适配移动端\`、\`ES6\`
-- 描述：本项目展示了两种不同风格的轮播，功能有上一张、下一张、可点击的原点/缩略图导航、自动循环播放。使用了 Rem 单位，以及适配移动端。
-- [源码链接](https://github.com/Caijialinxx/Slides/blob/master/main.js) | [预览链接](https://caijialinxx.github.io/Slides/)
 
 ### 彩色涂鸦
 - 关键词：\`HTML5\`、\`Canvas\`、\`ES6\`、\`JavaScript\`
 - 描述：使用 HTML5 的 Canvas 元素及其相关 API ，实现支持多指同时画图（可选色/粗细）、橡皮擦、一键清空、保存至本地的功能。
-- [源码链接](https://github.com/Caijialinxx/Canvas/blob/master/main.js) | [预览链接](https://caijialinxx.github.io/Canvas/)
+- [源码链接](https://github.com/carrotemis/Canvas) | [预览链接](https://carrotemis.github.io/Canvas/)
 
-### 壹号聊天室
-- 关键词：\`Node.js\`、\`Socket.IO\`、\`Express\`
-- 描述：该项目后端使用 Node.js 实现一个在线聊天室，有登录、添加好友、单聊/群聊、发送消息（文本/表情/文件）等功能。使用 Express 实现路由功能，由个人独立开发，已部署到 Heroku 上。
-- [源码链接](https://github.com/Caijialinxx/IMsystem) | [预览链接](https://arcane-mountain-17783.herokuapp.com/)
+### 在线翻译小程序
+   - 关键词：\`了解微信开发者平台一些接口的引用\`、\`ES6\`、\`JavaScript\`
+   - 项目介绍：一款提供翻译功能的微信小程序，遍历有浏览所有翻译历史之意。
+    该项目以百度翻译 API 为服务器域名提供支持，主要包含翻译首页、语言列表页和翻译历史页。
+    项目逻辑简单，页面清新，提供了近 20 种语言选择，欢迎尝试。
+    浏览项目：微信搜索小程序——遍历翻译即可使用
+- [源码链接](https://github.com/carrotemis/mini-programs-master) 
 
 ## 教育经历
-### 广东第二师范学院
-2014/9 - 2018/6
+### 成都文理学院
+2015/9 - 2019/6
 - 专业学历：计算机科学与技术 大学本科
 - GPA：3.4 / 4.0
-- 荣誉：校二、三奖学金、优秀学生（2014-2015、2016-2017共两学年）、优秀学生干部（2014-2015、2016-2017共两学年）
-- 相关课程：网络应用开发（PHP）、数据结构与算法、数据库系统原理、计算机网络等
+- 荣誉：校二、三奖学金、优秀学生（2014-2015、2016-2017共两学年）、优秀学生干部（2016-2017共一学年）
+- 相关课程：网络应用开发（JAVA）、数据结构与算法、数据库系统原理、计算机网络等
 `
 
 let code_ready = `/*
- * 嗨，我是蔡嘉琳。
+ * 嗨，我是胡炳良。
  * 我想用代码给你展示一下我的个人简历～
  * 灵感来自：http://strml.net
  * 
